@@ -1,0 +1,20 @@
+body{
+    font-family: sans-serif;
+}
+
+.box{
+    background-color: blue;
+    padding: 1rem ;
+    border: solid 1px white;
+    color: white;
+    height: 100%;
+    text-align: center;
+}
+
+.box-green{
+    background-color: greenyellow;
+    padding: 1rem ;
+    border: solid 1px blue;
+    color: white;
+    height: 100%;
+}
